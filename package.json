@@ -61,7 +61,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -1919,6 +1920,33 @@
               "2",
               "[@viliam](https://github.com/viliam)/[**tetrisSFX**](https://github.com/viliam/tetrisSFX)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "18",
+              "[@enkydu](https://github.com/enkydu)/[**Raspi_Runner**](https://github.com/enkydu/Raspi_Runner)",
+              "Raspi Runner is a BASH script which will run all your scripts delivered by e-mail.",
+              ""
+            ],
+            [
+              "2",
+              "[@marekruzicka](https://github.com/marekruzicka)/[**openstack-debian-ima…**](https://github.com/marekruzicka/openstack-debian-image)",
+              "Scripts for building customized debian image for OpenStack",
               ""
             ]
           ]
