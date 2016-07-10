@@ -60,7 +60,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -1885,6 +1886,39 @@
               "2",
               "[@smolnar](https://github.com/smolnar)/[**gabrake**](https://github.com/smolnar/gabrake)",
               "Simple Realtime Error Tracking and Statistics with Google Analytics",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@rusho](https://github.com/rusho)/[**lift_24_sbt11_basic**](https://github.com/rusho/lift_24_sbt11_basic)",
+              "Lift 2.4 and SBT 0.11 Basic Example Template",
+              ""
+            ],
+            [
+              "2",
+              "[@viliam](https://github.com/viliam)/[**twars**](https://github.com/viliam/twars)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@viliam](https://github.com/viliam)/[**tetrisSFX**](https://github.com/viliam/tetrisSFX)",
+              "",
               ""
             ]
           ]
