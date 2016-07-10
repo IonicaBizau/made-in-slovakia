@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -641,6 +642,111 @@
               "5",
               "[@slovensko-digital](https://github.com/slovensko-digital)/[**uvobot**](https://github.com/slovensko-digital/uvobot)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "30",
+              "[@danielkraic](https://github.com/danielkraic)/[**Pidgin-XEP-0136-plug…**](https://github.com/danielkraic/Pidgin-XEP-0136-plugin)",
+              "Pidgin XEP-0136: Message Archiving plugin",
+              ""
+            ],
+            [
+              "15",
+              "[@danzatt](https://github.com/danzatt)/[**ibex_find**](https://github.com/danzatt/ibex_find)",
+              "Identifies common functions in iBSS/iBEC/iBoot/LLB",
+              ""
+            ],
+            [
+              "11",
+              "[@lovasko](https://github.com/lovasko)/[**libctf**](https://github.com/lovasko/libctf)",
+              "BSD-licensed CTF Implementation",
+              ""
+            ],
+            [
+              "7",
+              "[@cTn-dev](https://github.com/cTn-dev)/[**Phoenix-STM32**](https://github.com/cTn-dev/Phoenix-STM32)",
+              "Flight Controller designed for SAR operations",
+              ""
+            ],
+            [
+              "7",
+              "[@danzatt](https://github.com/danzatt)/[**hfs_resize**](https://github.com/danzatt/hfs_resize)",
+              "Resize HFS on iOS",
+              ""
+            ],
+            [
+              "3",
+              "[@v92](https://github.com/v92)/[**libiorouter**](https://github.com/v92/libiorouter)",
+              "libiorouter is LD_PRELOAD library for caching data and metadata requests from backend directory to local directory transparently to application.",
+              ""
+            ],
+            [
+              "3",
+              "[@lovasko](https://github.com/lovasko)/[**libcsv**](https://github.com/lovasko/libcsv)",
+              "C89 Comma Separated Values Implementation",
+              ""
+            ],
+            [
+              "2",
+              "[@nandra](https://github.com/nandra)/[**libiqrf**](https://github.com/nandra/libiqrf)",
+              "interface library to iqrf devices",
+              "[:arrow_upper_right:](www.open-nandra.com)"
+            ],
+            [
+              "2",
+              "[@nandra](https://github.com/nandra)/[**ctimer**](https://github.com/nandra/ctimer)",
+              "ctimer is console periodic or one-shot timer.",
+              "[:arrow_upper_right:](www.open-nandra.com)"
+            ],
+            [
+              "2",
+              "[@danzatt](https://github.com/danzatt)/[**QEMU-s5l89xx-port**](https://github.com/danzatt/QEMU-s5l89xx-port)",
+              "Adding support s5l89xx support to QEMU",
+              "[:arrow_upper_right:](www.cmw.me)"
+            ],
+            [
+              "2",
+              "[@danzatt](https://github.com/danzatt)/[**reimagine**](https://github.com/danzatt/reimagine)",
+              "Tool based on opensn0w-X for dumping, listing, decrypting and patching IMG3 files",
+              ""
+            ],
+            [
+              "2",
+              "[@nandra](https://github.com/nandra)/[**omap_850_kernel**](https://github.com/nandra/omap_850_kernel)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@PatrikKT](https://github.com/PatrikKT)/[**android_kernel_huawe…**](https://github.com/PatrikKT/android_kernel_huawei_y550)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@lovasko](https://github.com/lovasko)/[**m_list**](https://github.com/lovasko/m_list)",
+              "Linked List for C89",
+              ""
+            ],
+            [
+              "2",
+              "[@nandra](https://github.com/nandra)/[**AVR**](https://github.com/nandra/AVR)",
+              "AVR projects",
               ""
             ]
           ]
