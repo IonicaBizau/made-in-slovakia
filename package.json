@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -901,6 +902,39 @@
               "2",
               "[@matus-chochlik](https://github.com/matus-chochlik)/[**exces**](https://github.com/matus-chochlik/exces)",
               "A simple component/entity system",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "15",
+              "[@pshtif](https://github.com/pshtif)/[**Genome2D-Nape**](https://github.com/pshtif/Genome2D-Nape)",
+              "Genome2D physics extension using Nape",
+              ""
+            ],
+            [
+              "14",
+              "[@pshtif](https://github.com/pshtif)/[**PixelCollisionEngine**](https://github.com/pshtif/PixelCollisionEngine)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mgron](https://github.com/mgron)/[**HungryHeroToGenome2D**](https://github.com/mgron/HungryHeroToGenome2D)",
+              "",
               ""
             ]
           ]
