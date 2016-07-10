@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -619,6 +620,27 @@
               "9",
               "[@llucenic](https://github.com/llucenic)/[**MonoDevelop.Debugger…**](https://github.com/llucenic/MonoDevelop.Debugger.Gdb.D)",
               "Debugging support for D programming language in MonoDevelop under GNU/Linux.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@slovensko-digital](https://github.com/slovensko-digital)/[**uvobot**](https://github.com/slovensko-digital/uvobot)",
+              "",
               ""
             ]
           ]
