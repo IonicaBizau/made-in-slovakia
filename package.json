@@ -58,7 +58,8 @@
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -1487,6 +1488,255 @@
               "2",
               "[@newPOPE](https://github.com/newPOPE)/[**screencast**](https://github.com/newPOPE/screencast)",
               "Nette screen casts",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "118",
+              "[@Mimino666](https://github.com/Mimino666)/[**langdetect**](https://github.com/Mimino666/langdetect)",
+              "Port of Google's language-detection library to Python.",
+              ""
+            ],
+            [
+              "82",
+              "[@ok100](https://github.com/ok100)/[**lyvi**](https://github.com/ok100/lyvi)",
+              "Command-line lyrics (and more!) viewer",
+              "[:arrow_upper_right:](http://ok100.github.com/lyvi/)"
+            ],
+            [
+              "68",
+              "[@luboslenco](https://github.com/luboslenco)/[**armory**](https://github.com/luboslenco/armory)",
+              "Blender Game Engine based on Cycles Nodes(in development)",
+              "[:arrow_upper_right:](http://armory3d.org/news)"
+            ],
+            [
+              "48",
+              "[@Mimino666](https://github.com/Mimino666)/[**django-admin-autoreg…**](https://github.com/Mimino666/django-admin-autoregister)",
+              "Snippet to automatically create and register admin classes for models.",
+              ""
+            ],
+            [
+              "40",
+              "[@ok100](https://github.com/ok100)/[**homepage.py**](https://github.com/ok100/homepage.py)",
+              "Simple homepage generator",
+              "[:arrow_upper_right:](http://ok100.github.io/homepage.py/)"
+            ],
+            [
+              "28",
+              "[@ok100](https://github.com/ok100)/[**dotfiles**](https://github.com/ok100/dotfiles)",
+              "My config files",
+              ""
+            ],
+            [
+              "23",
+              "[@lalinsky](https://github.com/lalinsky)/[**musicbrainz-bot**](https://github.com/lalinsky/musicbrainz-bot)",
+              "",
+              "[:arrow_upper_right:](http://musicbrainz.org/user/lukz_bot)"
+            ],
+            [
+              "18",
+              "[@Mimino666](https://github.com/Mimino666)/[**crawlmi**](https://github.com/Mimino666/crawlmi)",
+              "Highly optimized web scraping framework in Python.",
+              ""
+            ],
+            [
+              "16",
+              "[@Mimino666](https://github.com/Mimino666)/[**tc-marathoner**](https://github.com/Mimino666/tc-marathoner)",
+              "Testing tool for TopCoder marathon matches.",
+              ""
+            ],
+            [
+              "16",
+              "[@Mimino666](https://github.com/Mimino666)/[**python-xextract**](https://github.com/Mimino666/python-xextract)",
+              "Extract structured data from HTML and XML documents like a boss.",
+              ""
+            ],
+            [
+              "15",
+              "[@Mimino666](https://github.com/Mimino666)/[**vokativ**](https://github.com/Mimino666/vokativ)",
+              "Skloňování českých jmen do 5. pádu",
+              ""
+            ],
+            [
+              "11",
+              "[@urtd](https://github.com/urtd)/[**fontinspector**](https://github.com/urtd/fontinspector)",
+              "Analytics for type designers",
+              "[:arrow_upper_right:](http://urtd.net/projects/fontinspector/)"
+            ],
+            [
+              "9",
+              "[@Mimino666](https://github.com/Mimino666)/[**django-hash-field**](https://github.com/Mimino666/django-hash-field)",
+              "Custom field to Django, storing the hashed value of some other field.",
+              ""
+            ],
+            [
+              "8",
+              "[@jbub](https://github.com/jbub)/[**django-suit-locale**](https://github.com/jbub/django-suit-locale)",
+              "Translation of django-suit.",
+              "[:arrow_upper_right:](transifex.com/projects/p/django-suit-locale/)"
+            ],
+            [
+              "8",
+              "[@imincik](https://github.com/imincik)/[**QgsPostGIS-Viewer**](https://github.com/imincik/QgsPostGIS-Viewer)",
+              "Simple PostGIS viewer based on QGIS libs",
+              ""
+            ],
+            [
+              "7",
+              "[@lalinsky](https://github.com/lalinsky)/[**acoustid-tools**](https://github.com/lalinsky/acoustid-tools)",
+              "Various scripts for working with the Acoustid API",
+              ""
+            ],
+            [
+              "7",
+              "[@Mimino666](https://github.com/Mimino666)/[**SublimeText2-python-…**](https://github.com/Mimino666/SublimeText2-python-open-module-new)",
+              "Opens the Python module file based on the Python import path. Plugin to Sublime Text 2.",
+              ""
+            ],
+            [
+              "7",
+              "[@sergejx](https://github.com/sergejx)/[**gedit-fullscreen-mar…**](https://github.com/sergejx/gedit-fullscreen-margins)",
+              "Gedit plugin that adds text margins in fullscreen mode",
+              ""
+            ],
+            [
+              "6",
+              "[@sergejx](https://github.com/sergejx)/[**gedit-indentation-se…**](https://github.com/sergejx/gedit-indentation-settings)",
+              "Customize Indentation Settings for Gedit",
+              ""
+            ],
+            [
+              "5",
+              "[@imincik](https://github.com/imincik)/[**mapfile-viewer**](https://github.com/imincik/mapfile-viewer)",
+              "UMN Mapserver mapfile viewer",
+              ""
+            ],
+            [
+              "5",
+              "[@mrshu](https://github.com/mrshu)/[**brutal-plugins**](https://github.com/mrshu/brutal-plugins)",
+              "A set of plugins for brutal, the mighty chatbot",
+              ""
+            ],
+            [
+              "5",
+              "[@beli-sk](https://github.com/beli-sk)/[**IMU_sensors**](https://github.com/beli-sk/IMU_sensors)",
+              "Python classes to interface with IMU sensors via I2C.",
+              ""
+            ],
+            [
+              "4",
+              "[@lalinsky](https://github.com/lalinsky)/[**nosexunit**](https://github.com/lalinsky/nosexunit)",
+              "Fork of NoseXUnit with some bug fixes",
+              "[:arrow_upper_right:](http://nosexunit.sourceforge.net/)"
+            ],
+            [
+              "4",
+              "[@lalinsky](https://github.com/lalinsky)/[**picard-debian**](https://github.com/lalinsky/picard-debian)",
+              "Debian packaging for Picard",
+              "[:arrow_upper_right:](http://packages.debian.org/picard)"
+            ],
+            [
+              "4",
+              "[@lalinsky](https://github.com/lalinsky)/[**mb2freedb**](https://github.com/lalinsky/mb2freedb)",
+              "MusicBrainz FreeDB gateway",
+              ""
+            ],
+            [
+              "4",
+              "[@beli-sk](https://github.com/beli-sk)/[**pokercards**](https://github.com/beli-sk/pokercards)",
+              "Python modules for working with poker cards and managing games.",
+              ""
+            ],
+            [
+              "3",
+              "[@beli-sk](https://github.com/beli-sk)/[**pywake**](https://github.com/beli-sk/pywake)",
+              "Python Wake-On-LAN client with advanced options and IPv6 capabilities",
+              ""
+            ],
+            [
+              "3",
+              "[@beli-sk](https://github.com/beli-sk)/[**syrup**](https://github.com/beli-sk/syrup)",
+              "Open source Configuration Management Database (CMDB) system",
+              ""
+            ],
+            [
+              "3",
+              "[@beli-sk](https://github.com/beli-sk)/[**oscilloscope**](https://github.com/beli-sk/oscilloscope)",
+              "Simple tool for analyzing voltage levels over time using Arduino",
+              ""
+            ],
+            [
+              "3",
+              "[@sergejx](https://github.com/sergejx)/[**oxalis**](https://github.com/sergejx/oxalis)",
+              "Web site editor for Gnome",
+              "[:arrow_upper_right:](http://sergejx.mysteria.cz/oxalis/)"
+            ],
+            [
+              "3",
+              "[@mrshu](https://github.com/mrshu)/[**python-imhdsk-api**](https://github.com/mrshu/python-imhdsk-api)",
+              "An unofficial API for imhd.sk",
+              ""
+            ],
+            [
+              "3",
+              "[@beli-sk](https://github.com/beli-sk)/[**iphttp**](https://github.com/beli-sk/iphttp)",
+              "Tunnel IP over HTTP",
+              ""
+            ],
+            [
+              "3",
+              "[@ondrowan](https://github.com/ondrowan)/[**polluxify**](https://github.com/ondrowan/polluxify)",
+              "Randomly indents code in provided file as @vlad-saling uses to do.",
+              ""
+            ],
+            [
+              "3",
+              "[@Mimino666](https://github.com/Mimino666)/[**SublimeText2-python-…**](https://github.com/Mimino666/SublimeText2-python-package-to-clipboard)",
+              "Copy the Python import path of the working file to clipboard. Plugin to Sublime Text 2.",
+              ""
+            ],
+            [
+              "2",
+              "[@Adman](https://github.com/Adman)/[**SimpleBT**](https://github.com/Adman/SimpleBT)",
+              "Simple controlling some move",
+              ""
+            ],
+            [
+              "2",
+              "[@Adman](https://github.com/Adman)/[**pytodo**](https://github.com/Adman/pytodo)",
+              "Remember, edit and show your task easily via command line",
+              ""
+            ],
+            [
+              "2",
+              "[@mrshu](https://github.com/mrshu)/[**py-todotxt**](https://github.com/mrshu/py-todotxt)",
+              "A Python library for dealing with todo.txt files",
+              ""
+            ],
+            [
+              "2",
+              "[@mrshu](https://github.com/mrshu)/[**stemm-sk**](https://github.com/mrshu/stemm-sk)",
+              "A stemmer for Slovak language",
+              ""
+            ],
+            [
+              "2",
+              "[@ok100](https://github.com/ok100)/[**findtorrent**](https://github.com/ok100/findtorrent)",
+              "Search and download torrent files from various sites",
               ""
             ]
           ]
