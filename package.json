@@ -38,5 +38,428 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-slovakia/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-slovakia#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-slovakia#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "216",
+              "[@jbutko](https://github.com/jbutko)/[**stickyNavbar.js**](https://github.com/jbutko/stickyNavbar.js)",
+              "stickyNavbar.js: Fancy sticky navigation jQuery plugin with smart anchor link highlighting",
+              "[:arrow_upper_right:](http://www.jozefbutko.com/stickynavbar/)"
+            ],
+            [
+              "182",
+              "[@petersirka](https://github.com/petersirka)/[**nosql**](https://github.com/petersirka/nosql)",
+              "NoSQL embedded database for small node.js projects",
+              ""
+            ],
+            [
+              "123",
+              "[@svrcekmichal](https://github.com/svrcekmichal)/[**redux-axios-middlewa…**](https://github.com/svrcekmichal/redux-axios-middleware)",
+              "Redux middleware for fetching data with axios HTTP client",
+              ""
+            ],
+            [
+              "81",
+              "[@petersirka](https://github.com/petersirka)/[**node-paypal-express-…**](https://github.com/petersirka/node-paypal-express-checkout)",
+              "Node.js PayPal Express Checkout for Single Payment",
+              "[:arrow_upper_right:](https://www.totaljs.com/eshop)"
+            ],
+            [
+              "71",
+              "[@petersirka](https://github.com/petersirka)/[**jquery.bindings**](https://github.com/petersirka/jquery.bindings)",
+              "Two way bindings for jQuery",
+              ""
+            ],
+            [
+              "53",
+              "[@igo](https://github.com/igo)/[**nlogger**](https://github.com/igo/nlogger)",
+              "Logging lib for Node.js that prints also module name and line number",
+              ""
+            ],
+            [
+              "34",
+              "[@danielhusar](https://github.com/danielhusar)/[**gulp-pleeease**](https://github.com/danielhusar/gulp-pleeease)",
+              "Gulp plugin for postprocess CSS with ease",
+              ""
+            ],
+            [
+              "31",
+              "[@MartinKolarik](https://github.com/MartinKolarik)/[**ractive-route**](https://github.com/MartinKolarik/ractive-route)",
+              "Routing library for Ractive.js",
+              ""
+            ],
+            [
+              "31",
+              "[@igo](https://github.com/igo)/[**redis2json**](https://github.com/igo/redis2json)",
+              "Node.js lib for easy loading data from Redis to JavaScript object",
+              ""
+            ],
+            [
+              "29",
+              "[@petersirka](https://github.com/petersirka)/[**node-filestorage**](https://github.com/petersirka/node-filestorage)",
+              "Storage for storing uploaded files in node.js",
+              ""
+            ],
+            [
+              "28",
+              "[@petersirka](https://github.com/petersirka)/[**node-backup**](https://github.com/petersirka/node-backup)",
+              "backup & restore files and directories",
+              ""
+            ],
+            [
+              "28",
+              "[@svrcekmichal](https://github.com/svrcekmichal)/[**react-sketchpad**](https://github.com/svrcekmichal/react-sketchpad)",
+              "Sketch pad created with canvas",
+              ""
+            ],
+            [
+              "24",
+              "[@danielhusar](https://github.com/danielhusar)/[**grunt-pleeease**](https://github.com/danielhusar/grunt-pleeease)",
+              "Grunt plugin for postprocess CSS with ease.",
+              ""
+            ],
+            [
+              "23",
+              "[@danielhusar](https://github.com/danielhusar)/[**gulp-local-screensho…**](https://github.com/danielhusar/gulp-local-screenshots)",
+              "Do the screenshots of your static html files",
+              ""
+            ],
+            [
+              "20",
+              "[@petersirka](https://github.com/petersirka)/[**Tangular**](https://github.com/petersirka/Tangular)",
+              "A simple JavaScript template engine like Angular.js for websites or node.js",
+              ""
+            ],
+            [
+              "20",
+              "[@danielhusar](https://github.com/danielhusar)/[**gulp-stylint**](https://github.com/danielhusar/gulp-stylint)",
+              "Gulp plugin for stylus stylint linter",
+              ""
+            ],
+            [
+              "19",
+              "[@yojimbo87](https://github.com/yojimbo87)/[**minotaur**](https://github.com/yojimbo87/minotaur)",
+              "Cross browser, long poll server implemented in node.js.",
+              "[:arrow_upper_right:](https://github.com/yojimbo87/minotaur)"
+            ],
+            [
+              "16",
+              "[@igo](https://github.com/igo)/[**cloudfoundry**](https://github.com/igo/cloudfoundry)",
+              "Node.js helper library for CloudFoundry",
+              ""
+            ],
+            [
+              "16",
+              "[@svrcekmichal](https://github.com/svrcekmichal)/[**universal-react**](https://github.com/svrcekmichal/universal-react)",
+              "Universal react with async data fetching, async routes, code splitting from top route",
+              ""
+            ],
+            [
+              "14",
+              "[@danielhusar](https://github.com/danielhusar)/[**github-pr-filter**](https://github.com/danielhusar/github-pr-filter)",
+              "Add ability to filter files in pull requests",
+              ""
+            ],
+            [
+              "13",
+              "[@MartinKolarik](https://github.com/MartinKolarik)/[**ractive-render**](https://github.com/MartinKolarik/ractive-render)",
+              "A simple way to render Ractive templates on node.js",
+              ""
+            ],
+            [
+              "12",
+              "[@ingbrzy](https://github.com/ingbrzy)/[**MA-XML-8.0-SPANISH**](https://github.com/ingbrzy/MA-XML-8.0-SPANISH)",
+              "SPANISH MIUI 8 TRANSLATION FOR XIAOMI.EU MULTILANG",
+              "[:arrow_upper_right:](http://www.xiaomi.eu)"
+            ],
+            [
+              "12",
+              "[@svrcekmichal](https://github.com/svrcekmichal)/[**reasync**](https://github.com/svrcekmichal/reasync)",
+              "Library for connecting React components to async actions like fetching",
+              ""
+            ],
+            [
+              "12",
+              "[@petersirka](https://github.com/petersirka)/[**mongodb-addons**](https://github.com/petersirka/mongodb-addons)",
+              "MongoDB add-ons for mongodb-native module",
+              "[:arrow_upper_right:](https://www.totaljs.com)"
+            ],
+            [
+              "12",
+              "[@petersirka](https://github.com/petersirka)/[**node-sqlagent**](https://github.com/petersirka/node-sqlagent)",
+              "SQL Agent is a missing ORM for node.js + total.js",
+              "[:arrow_upper_right:](https://www.totaljs.com)"
+            ],
+            [
+              "11",
+              "[@petersirka](https://github.com/petersirka)/[**jComponent**](https://github.com/petersirka/jComponent)",
+              "A simple jQuery component library",
+              "[:arrow_upper_right:](http://jcomponent.org)"
+            ],
+            [
+              "10",
+              "[@danielhusar](https://github.com/danielhusar)/[**gulp-no-media-querie…**](https://github.com/danielhusar/gulp-no-media-queries)",
+              "Export the css without mediaqueries matching maximum page width.",
+              ""
+            ],
+            [
+              "10",
+              "[@petersirka](https://github.com/petersirka)/[**node-mongolab**](https://github.com/petersirka/node-mongolab)",
+              "Mongolab.com client for node.js",
+              ""
+            ],
+            [
+              "9",
+              "[@danielhusar](https://github.com/danielhusar)/[**no-media-queries**](https://github.com/danielhusar/no-media-queries)",
+              "Export the css without mediaqueries matching maximum page width.",
+              ""
+            ],
+            [
+              "8",
+              "[@MartinKolarik](https://github.com/MartinKolarik)/[**babel-plugin-dedent**](https://github.com/MartinKolarik/babel-plugin-dedent)",
+              "Remove indentation from multiline template strings",
+              ""
+            ],
+            [
+              "8",
+              "[@petersirka](https://github.com/petersirka)/[**node-fulltext**](https://github.com/petersirka/node-fulltext)",
+              "Fulltext search engine for node.js",
+              ""
+            ],
+            [
+              "7",
+              "[@petersirka](https://github.com/petersirka)/[**partial.js-clientsid…**](https://github.com/petersirka/partial.js-clientside)",
+              "A simple routing through HTML 5 History API according to partial.js.",
+              "[:arrow_upper_right:](http://www.totaljs.com)"
+            ],
+            [
+              "7",
+              "[@petersirka](https://github.com/petersirka)/[**jRouting**](https://github.com/petersirka/jRouting)",
+              "Great routing mechanism for client-side web applications",
+              ""
+            ],
+            [
+              "6",
+              "[@danielhusar](https://github.com/danielhusar)/[**gulp-save**](https://github.com/danielhusar/gulp-save)",
+              "Store and restore stream",
+              ""
+            ],
+            [
+              "6",
+              "[@danielhusar](https://github.com/danielhusar)/[**grunt-localscreensho…**](https://github.com/danielhusar/grunt-localscreenshots)",
+              "grunt-screenshots",
+              ""
+            ],
+            [
+              "6",
+              "[@yojimbo87](https://github.com/yojimbo87)/[**east**](https://github.com/yojimbo87/east)",
+              "Node.js driver for OrientDB",
+              ""
+            ],
+            [
+              "6",
+              "[@srigi](https://github.com/srigi)/[**stylus-urlprefix**](https://github.com/srigi/stylus-urlprefix)",
+              "Transparent prefixing for url() calls in stylus files",
+              ""
+            ],
+            [
+              "5",
+              "[@petersirka](https://github.com/petersirka)/[**node-onlineplatby**](https://github.com/petersirka/node-onlineplatby)",
+              "tatrapay, cardpay, sporopay, vubpay, vebpay, otppay, uniplatba, ČSOB platobné tlačítko, Slovenská pošta platba online a ASMS (platba cez SMS správu)",
+              ""
+            ],
+            [
+              "5",
+              "[@petersirka](https://github.com/petersirka)/[**jquery.templates**](https://github.com/petersirka/jquery.templates)",
+              "Easy templating for jQuery",
+              ""
+            ],
+            [
+              "5",
+              "[@ingbrzy](https://github.com/ingbrzy)/[**MA-XML-7.0-PORTUGUES…**](https://github.com/ingbrzy/MA-XML-7.0-PORTUGUESE)",
+              "PORTUGUESE MIUIv7 TRANSLATION FOR XIAOMI.EU MULTILANG BUILDS",
+              "[:arrow_upper_right:](http://xiaomi.eu)"
+            ],
+            [
+              "5",
+              "[@danielhusar](https://github.com/danielhusar)/[**simple-twitter**](https://github.com/danielhusar/simple-twitter)",
+              "node-simple-twitter",
+              ""
+            ],
+            [
+              "4",
+              "[@petersirka](https://github.com/petersirka)/[**node-couchdb**](https://github.com/petersirka/node-couchdb)",
+              "Simple CouchDB driver",
+              ""
+            ],
+            [
+              "4",
+              "[@srigi](https://github.com/srigi)/[**webpack-todomvc**](https://github.com/srigi/webpack-todomvc)",
+              "React + Flux + EcmaScript 6 + Webpack TODO app",
+              ""
+            ],
+            [
+              "4",
+              "[@danielhusar](https://github.com/danielhusar)/[**slovak-wordlist**](https://github.com/danielhusar/slovak-wordlist)",
+              "List of the slovak words",
+              ""
+            ],
+            [
+              "3",
+              "[@petersirka](https://github.com/petersirka)/[**utils.js**](https://github.com/petersirka/utils.js)",
+              "Helper functions.",
+              ""
+            ],
+            [
+              "3",
+              "[@danielhusar](https://github.com/danielhusar)/[**js-combiner**](https://github.com/danielhusar/js-combiner)",
+              "node.js javascript minify and combiner tool",
+              ""
+            ],
+            [
+              "3",
+              "[@slinto](https://github.com/slinto)/[**grunt-init-myapp**](https://github.com/slinto/grunt-init-myapp)",
+              "Create a new WebApp project with grunt-init including Bower package manager, LESS with LESSHAT2 mixins, Normalize CSS, RequireJS with r.js optimizer, jshint, livereloading && server",
+              ""
+            ],
+            [
+              "3",
+              "[@danielhusar](https://github.com/danielhusar)/[**metalsmith-timestamp**](https://github.com/danielhusar/metalsmith-timestamp)",
+              "Add timestamp to html files",
+              ""
+            ],
+            [
+              "3",
+              "[@srigi](https://github.com/srigi)/[**training-webpack**](https://github.com/srigi/training-webpack)",
+              "Introduction to Webpack",
+              ""
+            ],
+            [
+              "3",
+              "[@virae](https://github.com/virae)/[**someday**](https://github.com/virae/someday)",
+              "Simple iOS todo manager app for \"someday\" tasks built in React Native",
+              ""
+            ],
+            [
+              "3",
+              "[@danielhusar](https://github.com/danielhusar)/[**trim-character**](https://github.com/danielhusar/trim-character)",
+              "Trim characters from the string.",
+              ""
+            ],
+            [
+              "3",
+              "[@tomasko126](https://github.com/tomasko126)/[**notemark**](https://github.com/tomasko126/notemark)",
+              "Simple extension for saving URLs for later visit",
+              ""
+            ],
+            [
+              "3",
+              "[@petersirka](https://github.com/petersirka)/[**fileserver**](https://github.com/petersirka/fileserver)",
+              "FileServer stores small uploaded files on the custom server.",
+              "[:arrow_upper_right:](http://www.totaljs.com)"
+            ],
+            [
+              "2",
+              "[@besnik](https://github.com/besnik)/[**fractals**](https://github.com/besnik/fractals)",
+              "Fractals mainly implemented using javascript and html5 canvas. Examples of depth-first-traversal and breadth-first-traversal of the graph. Object oriented design. ",
+              ""
+            ],
+            [
+              "2",
+              "[@besnik](https://github.com/besnik)/[**train**](https://github.com/besnik/train)",
+              "Train is a logical game written in javascript, html, css",
+              ""
+            ],
+            [
+              "2",
+              "[@igo](https://github.com/igo)/[**signals**](https://github.com/igo/signals)",
+              "Node.js Custom Event/Messaging system lib",
+              ""
+            ],
+            [
+              "2",
+              "[@tomasko126](https://github.com/tomasko126)/[**BlackBerry-10-Radio-…**](https://github.com/tomasko126/BlackBerry-10-Radio-Stream-App)",
+              "Online radio stream app built for BlackBerry 10 OS written in BlackBerry Cascades (JavaScript/C++/QML)",
+              ""
+            ],
+            [
+              "2",
+              "[@danielhusar](https://github.com/danielhusar)/[**gulp-remove-empty-li…**](https://github.com/danielhusar/gulp-remove-empty-lines)",
+              "Remove empty lines from files.",
+              ""
+            ],
+            [
+              "2",
+              "[@danielhusar](https://github.com/danielhusar)/[**gulp-to-json**](https://github.com/danielhusar/gulp-to-json)",
+              "Export sources to json file",
+              ""
+            ],
+            [
+              "2",
+              "[@danielhusar](https://github.com/danielhusar)/[**metalsmith-jekyll**](https://github.com/danielhusar/metalsmith-jekyll)",
+              "Static jekyll-like blog generator.",
+              ""
+            ],
+            [
+              "2",
+              "[@danielhusar](https://github.com/danielhusar)/[**exec-chainable**](https://github.com/danielhusar/exec-chainable)",
+              "Exec shell command and return promise so you can chain commands",
+              ""
+            ],
+            [
+              "2",
+              "[@danielhusar](https://github.com/danielhusar)/[**lastfm-instagram**](https://github.com/danielhusar/lastfm-instagram)",
+              "Stream photos of your top 10 last fm artists from instagram ",
+              ""
+            ],
+            [
+              "2",
+              "[@petersirka](https://github.com/petersirka)/[**node-firebirdsql**](https://github.com/petersirka/node-firebirdsql)",
+              "Pure javascript and asynchronous Firebird client for Node.js.",
+              ""
+            ],
+            [
+              "2",
+              "[@MartinKolarik](https://github.com/MartinKolarik)/[**gobble-clean-css**](https://github.com/MartinKolarik/gobble-clean-css)",
+              "Minify CSS files with gobble and clean-css",
+              ""
+            ],
+            [
+              "2",
+              "[@MartinKolarik](https://github.com/MartinKolarik)/[**dedent-js**](https://github.com/MartinKolarik/dedent-js)",
+              "Remove indentation from multiline strings",
+              ""
+            ],
+            [
+              "2",
+              "[@petersirka](https://github.com/petersirka)/[**jquery.upload**](https://github.com/petersirka/jquery.upload)",
+              "jQuery upload files (HTML 5 File API) + drag and drop files",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
