@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -747,6 +748,159 @@
               "2",
               "[@nandra](https://github.com/nandra)/[**AVR**](https://github.com/nandra/AVR)",
               "AVR projects",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "316",
+              "[@matus-chochlik](https://github.com/matus-chochlik)/[**oglplus**](https://github.com/matus-chochlik/oglplus)",
+              "OGLplus is a collection of open-source, cross-platform libraries which implement an object-oriented facade over the OpenGL® (version 3 and higher) and also OpenAL® (version 1.1) and EGL (version 1.4) C-language APIs. It provides wrappers which automate resource and object management and make the use of these libraries in C++ safer and more convenient.",
+              "[:arrow_upper_right:](http://oglplus.org/)"
+            ],
+            [
+              "284",
+              "[@nem0](https://github.com/nem0)/[**LumixEngine**](https://github.com/nem0/LumixEngine)",
+              "3D Game Engine",
+              "[:arrow_upper_right:](https://github.com/nem0/lumixengine_data)"
+            ],
+            [
+              "21",
+              "[@matus-chochlik](https://github.com/matus-chochlik)/[**oglplu2**](https://github.com/matus-chochlik/oglplu2)",
+              "Experimental rewrite of OGLplus with the latest C++ features and a different design.",
+              ""
+            ],
+            [
+              "9",
+              "[@mireq](https://github.com/mireq)/[**minetest-mapper-cpp**](https://github.com/mireq/minetest-mapper-cpp)",
+              "Port of minetest map generator.",
+              ""
+            ],
+            [
+              "8",
+              "[@matus-chochlik](https://github.com/matus-chochlik)/[**eagine**](https://github.com/matus-chochlik/eagine)",
+              "A rendering engine based on eglplus/oalplus/oglplus (in very early stages of development) ",
+              ""
+            ],
+            [
+              "8",
+              "[@breviar-sk](https://github.com/breviar-sk)/[**Liturgia-hodin-onlin…**](https://github.com/breviar-sk/Liturgia-hodin-online)",
+              "Liturgia hodín (breviár) online / Liturgy of Hours (Breviary): Slovak, Czech, Hungarian",
+              "[:arrow_upper_right:](http://breviar.sk)"
+            ],
+            [
+              "5",
+              "[@mireq](https://github.com/mireq)/[**Qt-Quick-Keyboard**](https://github.com/mireq/Qt-Quick-Keyboard)",
+              "Simple virtual keyboard written in Qt Quick",
+              ""
+            ],
+            [
+              "4",
+              "[@tkislan](https://github.com/tkislan)/[**base64**](https://github.com/tkislan/base64)",
+              "Base64 encoding and decoding for C++ projects",
+              ""
+            ],
+            [
+              "3",
+              "[@matus-tomlein](https://github.com/matus-tomlein)/[**synkron**](https://github.com/matus-tomlein/synkron)",
+              "Synkron is an application for synchronising folders.",
+              "[:arrow_upper_right:](synkron.sourceforge.net)"
+            ],
+            [
+              "3",
+              "[@GAMELASTER](https://github.com/GAMELASTER)/[**ArduinoGamepad**](https://github.com/GAMELASTER/ArduinoGamepad)",
+              "A GamePad HID library for Arduino Pro Micro/Leonardo (ATMega32u4)",
+              ""
+            ],
+            [
+              "3",
+              "[@matus-chochlik](https://github.com/matus-chochlik)/[**mirror**](https://github.com/matus-chochlik/mirror)",
+              "Reboot of the Mirror reflection utilities (in very early stage)",
+              ""
+            ],
+            [
+              "3",
+              "[@kaplon](https://github.com/kaplon)/[**mangos**](https://github.com/kaplon/mangos)",
+              "",
+              "[:arrow_upper_right:](http://getmangos.com)"
+            ],
+            [
+              "3",
+              "[@mhozza](https://github.com/mhozza)/[**HandControl**](https://github.com/mhozza/HandControl)",
+              "Tool for remote controlling PC only with your hand and webcamera.",
+              ""
+            ],
+            [
+              "2",
+              "[@nem0](https://github.com/nem0)/[**playground**](https://github.com/nem0/playground)",
+              "Idea testbed",
+              ""
+            ],
+            [
+              "2",
+              "[@w0301](https://github.com/w0301)/[**wq**](https://github.com/w0301/wq)",
+              "Modern c++ framework. It’s well organized in namespaces and use all c++ features (exceptions too!). It contains (or will in future) classes for object communication, multi-thread support, utf8 strings and much more. Framework is suppose to work on all popular platforms: linux, windows, mac.",
+              ""
+            ],
+            [
+              "2",
+              "[@mireq](https://github.com/mireq)/[**Thinkpad-Fancontrol-…**](https://github.com/mireq/Thinkpad-Fancontrol-C--)",
+              "Script tp-fancontrol ported to C++",
+              ""
+            ],
+            [
+              "2",
+              "[@mireq](https://github.com/mireq)/[**facedetect**](https://github.com/mireq/facedetect)",
+              "Face detector",
+              ""
+            ],
+            [
+              "2",
+              "[@mireq](https://github.com/mireq)/[**simunet**](https://github.com/mireq/simunet)",
+              "Computer network simulator",
+              "[:arrow_upper_right:](http://simunet.eu)"
+            ],
+            [
+              "2",
+              "[@mireq](https://github.com/mireq)/[**Experiment-blender-3…**](https://github.com/mireq/Experiment-blender-3d-serial-protocol)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mhozza](https://github.com/mhozza)/[**NyanCat3D**](https://github.com/mhozza/NyanCat3D)",
+              "Nyan Cat 3D",
+              ""
+            ],
+            [
+              "2",
+              "[@mireq](https://github.com/mireq)/[**QBoincGui**](https://github.com/mireq/QBoincGui)",
+              "Boinc GUI",
+              "[:arrow_upper_right:](http://linuxos.sk)"
+            ],
+            [
+              "2",
+              "[@mireq](https://github.com/mireq)/[**QtXvWidget**](https://github.com/mireq/QtXvWidget)",
+              "Qt widget for X-Video Extension",
+              ""
+            ],
+            [
+              "2",
+              "[@matus-chochlik](https://github.com/matus-chochlik)/[**exces**](https://github.com/matus-chochlik/exces)",
+              "A simple component/entity system",
               ""
             ]
           ]
