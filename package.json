@@ -52,7 +52,8 @@
           "[HTML](#html)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -935,6 +936,69 @@
               "2",
               "[@mgron](https://github.com/mgron)/[**HungryHeroToGenome2D**](https://github.com/mgron/HungryHeroToGenome2D)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "21",
+              "[@wagjo](https://github.com/wagjo)/[**data-cljs**](https://github.com/wagjo/data-cljs)",
+              "Finger trees and miscellaneous functions for ClojureScript data structures.",
+              ""
+            ],
+            [
+              "17",
+              "[@wagjo](https://github.com/wagjo)/[**hangman**](https://github.com/wagjo/hangman)",
+              "Hangman the game - Clojure tutorial for total beginners",
+              ""
+            ],
+            [
+              "7",
+              "[@wagjo](https://github.com/wagjo)/[**diff-cljs**](https://github.com/wagjo/diff-cljs)",
+              "Diff for ClojureScript Sequences",
+              ""
+            ],
+            [
+              "7",
+              "[@wagjo](https://github.com/wagjo)/[**benchmark-cljs**](https://github.com/wagjo/benchmark-cljs)",
+              "Benchmarking ClojureScript stuff",
+              "[:arrow_upper_right:](http://wagjo.github.io/benchmark-cljs/)"
+            ],
+            [
+              "5",
+              "[@wagjo](https://github.com/wagjo)/[**ftree**](https://github.com/wagjo/ftree)",
+              "Finger trees in Clojurescript",
+              ""
+            ],
+            [
+              "2",
+              "[@dstiberova](https://github.com/dstiberova)/[**comments-app**](https://github.com/dstiberova/comments-app)",
+              "Simple comments application written in Clojure using om.next",
+              ""
+            ],
+            [
+              "2",
+              "[@wagjo](https://github.com/wagjo)/[**dredd**](https://github.com/wagjo/dredd)",
+              "Simple Online Automated Judge System in Clojure",
+              ""
+            ],
+            [
+              "2",
+              "[@janherich](https://github.com/janherich)/[**async-experiments**](https://github.com/janherich/async-experiments)",
+              "Experimentations with core.async",
               ""
             ]
           ]
