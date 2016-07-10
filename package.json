@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -456,6 +457,141 @@
               "[@petersirka](https://github.com/petersirka)/[**jquery.upload**](https://github.com/petersirka/jquery.upload)",
               "jQuery upload files (HTML 5 File API) + drag and drop files",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "221",
+              "[@FrantisekGazo](https://github.com/FrantisekGazo)/[**Blade**](https://github.com/FrantisekGazo/Blade)",
+              "Android library for boilerplate destruction",
+              ""
+            ],
+            [
+              "186",
+              "[@MatusKysel](https://github.com/MatusKysel)/[**EMVemulator**](https://github.com/MatusKysel/EMVemulator)",
+              "This Android app collects Mag-Stripe data and CVC3 codes from PayPass cards and emulates that information.  ",
+              ""
+            ],
+            [
+              "89",
+              "[@martinadamek](https://github.com/martinadamek)/[**json-android-compare**](https://github.com/martinadamek/json-android-compare)",
+              "Comparison of JSON parsers performance on Android",
+              ""
+            ],
+            [
+              "65",
+              "[@pylerSM](https://github.com/pylerSM)/[**YouTubeBackgroundPla…**](https://github.com/pylerSM/YouTubeBackgroundPlayback)",
+              "[Xposed module] Enable background playback in YouTube",
+              "[:arrow_upper_right:](http://repo.xposed.info/module/com.pyler.youtubebackgroundplayback)"
+            ],
+            [
+              "58",
+              "[@pylerSM](https://github.com/pylerSM)/[**XInstaller**](https://github.com/pylerSM/XInstaller)",
+              "[Xposed module] Various tweaks for Package Installer",
+              "[:arrow_upper_right:](http://repo.xposed.info/module/com.pyler.xinstaller)"
+            ],
+            [
+              "42",
+              "[@pylerSM](https://github.com/pylerSM)/[**NoDeviceCheck**](https://github.com/pylerSM/NoDeviceCheck)",
+              "[Xposed module] Disable device compatibility check",
+              "[:arrow_upper_right:](http://repo.xposed.info/module/com.pyler.nodevicecheck)"
+            ],
+            [
+              "14",
+              "[@pylerSM](https://github.com/pylerSM)/[**XInternalSD**](https://github.com/pylerSM/XInternalSD)",
+              "[Xposed module] Android Storage/SD card API tweaks",
+              "[:arrow_upper_right:](http://repo.xposed.info/module/com.pyler.xinternalsd)"
+            ],
+            [
+              "9",
+              "[@pdudits](https://github.com/pdudits)/[**soundlibs**](https://github.com/pdudits/soundlibs)",
+              "Maven artifacts for Java Sound Libraries",
+              ""
+            ],
+            [
+              "7",
+              "[@pylerSM](https://github.com/pylerSM)/[**MobileRadioActiveFix**](https://github.com/pylerSM/MobileRadioActiveFix)",
+              "[Xposed module] Fix for Mobile Radio Active bug",
+              "[:arrow_upper_right:](http://repo.xposed.info/module/com.pyler.mobileradioactivefix)"
+            ],
+            [
+              "5",
+              "[@PaulNoth](https://github.com/PaulNoth)/[**hackerrank**](https://github.com/PaulNoth/hackerrank)",
+              "Solutions of Hackerrank challenges in various languages",
+              ""
+            ],
+            [
+              "4",
+              "[@pylerSM](https://github.com/pylerSM)/[**TextLinkify**](https://github.com/pylerSM/TextLinkify)",
+              "[Xposed module] Highlight phone numbers, web urls, e-mail addresses and map addresses in any app",
+              "[:arrow_upper_right:](http://repo.xposed.info/module/com.pyler.textlinkify)"
+            ],
+            [
+              "4",
+              "[@pylerSM](https://github.com/pylerSM)/[**EnableCMCallRecordin…**](https://github.com/pylerSM/EnableCMCallRecording)",
+              "[Xposed module] Enable call recording in CyanogenMod",
+              "[:arrow_upper_right:](http://repo.xposed.info/module/com.pyler.enablecmcallrec)"
+            ],
+            [
+              "4",
+              "[@pylerSM](https://github.com/pylerSM)/[**BackupAllApps**](https://github.com/pylerSM/BackupAllApps)",
+              "[Xposed module] Enable backing up of all Android apps",
+              "[:arrow_upper_right:](http://repo.xposed.info/module/com.pyler.backupallapps)"
+            ],
+            [
+              "3",
+              "[@pylerSM](https://github.com/pylerSM)/[**LollipopPowerMenu**](https://github.com/pylerSM/LollipopPowerMenu)",
+              "[Xposed module] Customize power menu in Android Lollipop",
+              "[:arrow_upper_right:](http://repo.xposed.info/module/com.pyler.lollipoppowermenu)"
+            ],
+            [
+              "3",
+              "[@pylerSM](https://github.com/pylerSM)/[**NoSafeVolumeWarning**](https://github.com/pylerSM/NoSafeVolumeWarning)",
+              "[Xposed module] Module hides safe volume warning",
+              "[:arrow_upper_right:](http://repo.xposed.info/module/com.pyler.nosafevolumewarning)"
+            ],
+            [
+              "2",
+              "[@sulir](https://github.com/sulir)/[**edigen**](https://github.com/sulir/edigen)",
+              "Emulator Disassembler Generator",
+              ""
+            ],
+            [
+              "2",
+              "[@scholtzm](https://github.com/scholtzm)/[**android-augmented-re…**](https://github.com/scholtzm/android-augmented-reality)",
+              "Augmented Reality Project",
+              ""
+            ],
+            [
+              "2",
+              "[@laciKE](https://github.com/laciKE)/[**LocationShare**](https://github.com/laciKE/LocationShare)",
+              "Sharing my location with group of friends. Inspired by Google Latitude, but Google Latitude is not suitable for me (and some other people) because it required Google Plus.",
+              ""
+            ],
+            [
+              "2",
+              "[@bletvaska](https://github.com/bletvaska)/[**dwa**](https://github.com/bletvaska/dwa)",
+              "Damn Vulnerable Web Application. Set of labs for web application security course in Java.",
+              ""
+            ],
+            [
+              "2",
+              "[@pylerSM](https://github.com/pylerSM)/[**LogsFilter**](https://github.com/pylerSM/LogsFilter)",
+              "[Xposed module] Filter private information from logs",
+              "[:arrow_upper_right:](http://repo.xposed.info/module/com.pyler.logsfilter)"
             ]
           ]
         }
