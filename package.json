@@ -53,7 +53,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[Go](#go)"
         ]
       },
       {
@@ -999,6 +1000,45 @@
               "2",
               "[@janherich](https://github.com/janherich)/[**async-experiments**](https://github.com/janherich/async-experiments)",
               "Experimentations with core.async",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "12",
+              "[@radoondas](https://github.com/radoondas)/[**elasticbeat**](https://github.com/radoondas/elasticbeat)",
+              "Simple Beat for ElasticSearch statistics",
+              ""
+            ],
+            [
+              "11",
+              "[@radoondas](https://github.com/radoondas)/[**apachebeat**](https://github.com/radoondas/apachebeat)",
+              "Beat for Apache HTTPD server-status page",
+              ""
+            ],
+            [
+              "6",
+              "[@radoondas](https://github.com/radoondas)/[**jmxproxybeat**](https://github.com/radoondas/jmxproxybeat)",
+              "JmxProxyBeat - Simple beat for Tomcat JMX exposed over JmxProxyServlet to HTTP ",
+              ""
+            ],
+            [
+              "2",
+              "[@Ingeniosity](https://github.com/Ingeniosity)/[**uniPOS**](https://github.com/Ingeniosity/uniPOS)",
+              "Package that maps different POS tagset to the Universal POS",
               ""
             ]
           ]
