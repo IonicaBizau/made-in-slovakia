@@ -62,7 +62,8 @@
           "[Python](#python)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -1947,6 +1948,39 @@
               "2",
               "[@marekruzicka](https://github.com/marekruzicka)/[**openstack-debian-ima…**](https://github.com/marekruzicka/openstack-debian-image)",
               "Scripts for building customized debian image for OpenStack",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "125",
+              "[@martin-svk](https://github.com/martin-svk)/[**dot-files**](https://github.com/martin-svk/dot-files)",
+              ":zap: Well documented, terminal centric web developer's dot files. Neovim, Zsh, Tmux, Git, etc.",
+              ""
+            ],
+            [
+              "50",
+              "[@triglav](https://github.com/triglav)/[**vim-visual-increment**](https://github.com/triglav/vim-visual-increment)",
+              "visual-increment.vim - use CTRL+A/X to create increasing sequence of numbers or letters via visual mode",
+              "[:arrow_upper_right:](http://triglav.github.com/vim-visual-increment/)"
+            ],
+            [
+              "2",
+              "[@triglav](https://github.com/triglav)/[**vim-files**](https://github.com/triglav/vim-files)",
+              "Triglav's Vim files.",
               ""
             ]
           ]
