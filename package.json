@@ -56,7 +56,8 @@
           "[Clojure](#clojure)",
           "[Go](#go)",
           "[Lua](#lua)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -1275,6 +1276,81 @@
               "2",
               "[@Tricertops](https://github.com/Tricertops)/[**iOS-Toolbox**](https://github.com/Tricertops/iOS-Toolbox)",
               "Open-source app with a collection of tools for iOS devs.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "25",
+              "[@potyl](https://github.com/potyl)/[**Webkit**](https://github.com/potyl/Webkit)",
+              "Having fun with WebKit",
+              ""
+            ],
+            [
+              "8",
+              "[@potyl](https://github.com/potyl)/[**perl-Gtk3-WebKit**](https://github.com/potyl/perl-Gtk3-WebKit)",
+              "Perl bindings for the gtk3 port of WebKit",
+              ""
+            ],
+            [
+              "7",
+              "[@potyl](https://github.com/potyl)/[**perl-App-deckjs2pdf**](https://github.com/potyl/perl-App-deckjs2pdf)",
+              "Convert a Deck.JS presentation to PDF",
+              ""
+            ],
+            [
+              "4",
+              "[@potyl](https://github.com/potyl)/[**pexeso**](https://github.com/potyl/pexeso)",
+              "The pexeso game in Clutter-Perl",
+              ""
+            ],
+            [
+              "4",
+              "[@potyl](https://github.com/potyl)/[**perl-AnyEvent-CacheD…**](https://github.com/potyl/perl-AnyEvent-CacheDNS)",
+              "Simple DNS resolver with a cache for AnyEvent",
+              ""
+            ],
+            [
+              "3",
+              "[@potyl](https://github.com/potyl)/[**perl-HTTP-Soup**](https://github.com/potyl/perl-HTTP-Soup)",
+              "Perl bindings for the C library \"libsoup\"",
+              ""
+            ],
+            [
+              "2",
+              "[@potyl](https://github.com/potyl)/[**Devel-TraceVars**](https://github.com/potyl/Devel-TraceVars)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@potyl](https://github.com/potyl)/[**perl-Gtk2**](https://github.com/potyl/perl-Gtk2)",
+              "My fork of GTK",
+              "[:arrow_upper_right:](http://gtk2-perl.sourceforge.net/)"
+            ],
+            [
+              "2",
+              "[@potyl](https://github.com/potyl)/[**bin**](https://github.com/potyl/bin)",
+              "Bin folder with various utilities",
+              ""
+            ],
+            [
+              "2",
+              "[@potyl](https://github.com/potyl)/[**Glib-Soup**](https://github.com/potyl/Glib-Soup)",
+              "LibSoup bindings for perl",
               ""
             ]
           ]
