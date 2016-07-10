@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -592,6 +593,33 @@
               "[@pylerSM](https://github.com/pylerSM)/[**LogsFilter**](https://github.com/pylerSM/LogsFilter)",
               "[Xposed module] Filter private information from logs",
               "[:arrow_upper_right:](http://repo.xposed.info/module/com.pyler.logsfilter)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "9",
+              "[@Sovak](https://github.com/Sovak)/[**WowheadRipper**](https://github.com/Sovak/WowheadRipper)",
+              "A tool used for parsing Wowhead data.",
+              ""
+            ],
+            [
+              "9",
+              "[@llucenic](https://github.com/llucenic)/[**MonoDevelop.Debugger…**](https://github.com/llucenic/MonoDevelop.Debugger.Gdb.D)",
+              "Debugging support for D programming language in MonoDevelop under GNU/Linux.",
+              ""
             ]
           ]
         }
