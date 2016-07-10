@@ -59,7 +59,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -1737,6 +1738,153 @@
               "2",
               "[@ok100](https://github.com/ok100)/[**findtorrent**](https://github.com/ok100/findtorrent)",
               "Search and download torrent files from various sites",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "233",
+              "[@jsuchal](https://github.com/jsuchal)/[**garelic**](https://github.com/jsuchal/garelic)",
+              "Use Google Analytics for Rails App Performance Monitoring.",
+              ""
+            ],
+            [
+              "84",
+              "[@kremso](https://github.com/kremso)/[**serenity**](https://github.com/kremso/serenity)",
+              "Embedded ruby for Open Office documents. You provide .odt template and data and Serenity generates the document. Great for creating dynamic reports.",
+              ""
+            ],
+            [
+              "65",
+              "[@jsuchal](https://github.com/jsuchal)/[**codility**](https://github.com/jsuchal/codility)",
+              "",
+              ""
+            ],
+            [
+              "45",
+              "[@jsuchal](https://github.com/jsuchal)/[**hashugar**](https://github.com/jsuchal/hashugar)",
+              "Nested OpenStruct alternative optimized for speed especially for many short-lived objects.",
+              "[:arrow_upper_right:](https://github.com/jsuchal/hashugar)"
+            ],
+            [
+              "25",
+              "[@jsuchal](https://github.com/jsuchal)/[**activerecord-fast-im…**](https://github.com/jsuchal/activerecord-fast-import)",
+              "Fast MySQL import for ActiveRecord",
+              "[:arrow_upper_right:](http://github.com/jsuchal/activerecord-fast-import)"
+            ],
+            [
+              "10",
+              "[@klevo](https://github.com/klevo)/[**docker-percona**](https://github.com/klevo/docker-percona)",
+              "Percona MySQL server with tools & shared volume initialization Dockerfile",
+              ""
+            ],
+            [
+              "6",
+              "[@kelso](https://github.com/kelso)/[**pseudo_model**](https://github.com/kelso/pseudo_model)",
+              "Rails Model-like validations in any class",
+              ""
+            ],
+            [
+              "5",
+              "[@fairplaysk](https://github.com/fairplaysk)/[**politika_open**](https://github.com/fairplaysk/politika_open)",
+              "",
+              "[:arrow_upper_right:](http://www.politikaopen.sk)"
+            ],
+            [
+              "5",
+              "[@fairplaysk](https://github.com/fairplaysk)/[**Datanest-ETL**](https://github.com/fairplaysk/Datanest-ETL)",
+              "Datanest ETL is a library and set of tools for extraction, transformation and loading of data.",
+              "[:arrow_upper_right:](http://datanest.fair-play.sk/)"
+            ],
+            [
+              "5",
+              "[@smolnar](https://github.com/smolnar)/[**jquery-textcomplete-…**](https://github.com/smolnar/jquery-textcomplete-rails)",
+              "jQuery Textcomplete for Rails Asset Pipeline",
+              ""
+            ],
+            [
+              "4",
+              "[@kelso](https://github.com/kelso)/[**easy_routing**](https://github.com/kelso/easy_routing)",
+              "Shortcuts of basic routes to your views and controllers.",
+              "[:arrow_upper_right:](http://www.stefanhuska.sk)"
+            ],
+            [
+              "4",
+              "[@fairplaysk](https://github.com/fairplaysk)/[**datanest_maintanance**](https://github.com/fairplaysk/datanest_maintanance)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@smolnar](https://github.com/smolnar)/[**squire**](https://github.com/smolnar/squire)",
+              "Squire handles your configuration by common config DSL.",
+              ""
+            ],
+            [
+              "3",
+              "[@kelso](https://github.com/kelso)/[**render_errors**](https://github.com/kelso/render_errors)",
+              "Ruby on Rails plugin. Simpler rendering ActiveRecord errors. Useful for non-english sites.",
+              "[:arrow_upper_right:](http://www.stefanhuska.sk)"
+            ],
+            [
+              "2",
+              "[@jsuchal](https://github.com/jsuchal)/[**baklazan**](https://github.com/jsuchal/baklazan)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@michalvalasek](https://github.com/michalvalasek)/[**hanami-mongoid**](https://github.com/michalvalasek/hanami-mongoid)",
+              "Example web app built with Hanami and Mongoid",
+              ""
+            ],
+            [
+              "2",
+              "[@kelso](https://github.com/kelso)/[**translation_scope**](https://github.com/kelso/translation_scope)",
+              "Ruby on Rails plugin. Translation helper with automatic scope by controller and action. With this you can write less code.",
+              "[:arrow_upper_right:](http://www.stefanhuska.sk)"
+            ],
+            [
+              "2",
+              "[@kelso](https://github.com/kelso)/[**fancy_string**](https://github.com/kelso/fancy_string)",
+              "Simple convert from \"My favorite café\" to \"my-favorite-cafe\". Removes diacritics. Useful for SEO url.",
+              "[:arrow_upper_right:](http://www.stefanhuska.sk)"
+            ],
+            [
+              "2",
+              "[@kremso](https://github.com/kremso)/[**jake**](https://github.com/kremso/jake)",
+              "Build Java code with ease",
+              ""
+            ],
+            [
+              "2",
+              "[@milann](https://github.com/milann)/[**gts**](https://github.com/milann/gts)",
+              "Simple GPS tracking server.",
+              ""
+            ],
+            [
+              "2",
+              "[@macejmic](https://github.com/macejmic)/[**skrill_payments**](https://github.com/macejmic/skrill_payments)",
+              "Skrill Payments GEM",
+              ""
+            ],
+            [
+              "2",
+              "[@smolnar](https://github.com/smolnar)/[**gabrake**](https://github.com/smolnar/gabrake)",
+              "Simple Realtime Error Tracking and Statistics with Google Analytics",
               ""
             ]
           ]
