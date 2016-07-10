@@ -57,7 +57,8 @@
           "[Go](#go)",
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -1351,6 +1352,141 @@
               "2",
               "[@potyl](https://github.com/potyl)/[**Glib-Soup**](https://github.com/potyl/Glib-Soup)",
               "LibSoup bindings for perl",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "895",
+              "[@itsgoingd](https://github.com/itsgoingd)/[**clockwork**](https://github.com/itsgoingd/clockwork)",
+              "Server-side component of Clockwork, a Chrome extension for PHP development.",
+              ""
+            ],
+            [
+              "162",
+              "[@mikegogulski](https://github.com/mikegogulski)/[**bitcoin-php**](https://github.com/mikegogulski/bitcoin-php)",
+              "Bitcoin library for PHP",
+              "[:arrow_upper_right:](http://www.nostate.com/3962/bitcoin-php-a-php-library-for-bitcoin/)"
+            ],
+            [
+              "71",
+              "[@itsgoingd](https://github.com/itsgoingd)/[**slim-facades**](https://github.com/itsgoingd/slim-facades)",
+              "\"Static\" interface for various Slim features",
+              ""
+            ],
+            [
+              "68",
+              "[@itsgoingd](https://github.com/itsgoingd)/[**slim-services**](https://github.com/itsgoingd/slim-services)",
+              "Service manager for Slim compatible with Laravel packages",
+              ""
+            ],
+            [
+              "64",
+              "[@newPOPE](https://github.com/newPOPE)/[**Nette-RestRoute**](https://github.com/newPOPE/Nette-RestRoute)",
+              "REST route for Nette Framework. Automatically maps REST actions to Presenters and actions in the defined module.",
+              ""
+            ],
+            [
+              "23",
+              "[@mikegogulski](https://github.com/mikegogulski)/[**bitcoin-wp-e-commerc…**](https://github.com/mikegogulski/bitcoin-wp-e-commerce)",
+              "Bitcoin payment plugin for WP e-Commerce for WordPress",
+              "[:arrow_upper_right:](http://www.nostate.com/3971/bitcoin-for-wp-e-commerce-shopping-cart-for-wordpress/)"
+            ],
+            [
+              "10",
+              "[@mikegogulski](https://github.com/mikegogulski)/[**uc_bitcoin**](https://github.com/mikegogulski/uc_bitcoin)",
+              "Bitcoin payment plugin for Ubercart shopping cart for Drupal. This project is now obsolete. See http://drupal.org/project/uc_bitcoin",
+              "[:arrow_upper_right:](http://www.nostate.com/3955/uc_bitcoin-a-bitcoin-payment-method-for-ubercartdrupal/)"
+            ],
+            [
+              "10",
+              "[@newPOPE](https://github.com/newPOPE)/[**gp-webpay-php-sdk**](https://github.com/newPOPE/gp-webpay-php-sdk)",
+              "GP Webpay PHP SDK",
+              ""
+            ],
+            [
+              "9",
+              "[@mikegogulski](https://github.com/mikegogulski)/[**bitcoin-virtuemart**](https://github.com/mikegogulski/bitcoin-virtuemart)",
+              "Bitcoin payment plugin for VirtueMart shopping cart for Joomla!",
+              "[:arrow_upper_right:](http://www.nostate.com/3941/bitcoin-payment-processor-for-virtuemartjoomla/)"
+            ],
+            [
+              "6",
+              "[@peterhudec](https://github.com/peterhudec)/[**image-metadata-crunc…**](https://github.com/peterhudec/image-metadata-cruncher)",
+              "A WordPress plugin that gives you ultimate controll over which image metadata WordPress extracts from an uploaded image and where and in what form it then goes.",
+              ""
+            ],
+            [
+              "6",
+              "[@newPOPE](https://github.com/newPOPE)/[**nette-codeception-ex…**](https://github.com/newPOPE/nette-codeception-example)",
+              "Example how to use Codeception in Nette framework for \"functional\" testing.",
+              ""
+            ],
+            [
+              "6",
+              "[@teo-sk](https://github.com/teo-sk)/[**PHP-Amazon-S3-Image-…**](https://github.com/teo-sk/PHP-Amazon-S3-Image-Uploader)",
+              "PHP Class that let's you integrate a simple, configurable image uploader to your Amazon S3 bucket",
+              ""
+            ],
+            [
+              "5",
+              "[@michalkvasnicak](https://github.com/michalkvasnicak)/[**oauth2-server**](https://github.com/michalkvasnicak/oauth2-server)",
+              "Open source OAuth 2.0 server implementation of final draft for PHP and HHVM",
+              ""
+            ],
+            [
+              "5",
+              "[@newPOPE](https://github.com/newPOPE)/[**monogramEpay**](https://github.com/newPOPE/monogramEpay)",
+              "epay kniznice pre PHP5.3",
+              ""
+            ],
+            [
+              "3",
+              "[@orthes](https://github.com/orthes)/[**marvin-articles**](https://github.com/orthes/marvin-articles)",
+              "Articles plugin for Marvin - micro CMS for PHP 5.3 based on Silex framework",
+              ""
+            ],
+            [
+              "3",
+              "[@michalkvasnicak](https://github.com/michalkvasnicak)/[**oauth2-server-bundle**](https://github.com/michalkvasnicak/oauth2-server-bundle)",
+              "OAuth 2.0 server bundle for Symfony 2 framework",
+              ""
+            ],
+            [
+              "2",
+              "[@orthes](https://github.com/orthes)/[**marvin-pages**](https://github.com/orthes/marvin-pages)",
+              "Pages plugin for Marvin - micro CMS for PHP 5.3 based on Silex framework",
+              ""
+            ],
+            [
+              "2",
+              "[@newPOPE](https://github.com/newPOPE)/[**Nette-CQRS-Commands**](https://github.com/newPOPE/Nette-CQRS-Commands)",
+              "Simple CQRS Commands for Nette Framework",
+              ""
+            ],
+            [
+              "2",
+              "[@freezy-sk](https://github.com/freezy-sk)/[**InterspireEMApi**](https://github.com/freezy-sk/InterspireEMApi)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@newPOPE](https://github.com/newPOPE)/[**screencast**](https://github.com/newPOPE/screencast)",
+              "Nette screen casts",
               ""
             ]
           ]
