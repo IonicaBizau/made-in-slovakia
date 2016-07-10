@@ -55,7 +55,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[Go](#go)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -1091,6 +1092,189 @@
               "2",
               "[@mkottman](https://github.com/mkottman)/[**scite_scripts**](https://github.com/mkottman/scite_scripts)",
               "custom scripts for the Scite editor",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "832",
+              "[@Tricertops](https://github.com/Tricertops)/[**KeepLayout**](https://github.com/Tricertops/KeepLayout)",
+              "Making Auto Layout easier to code.",
+              ""
+            ],
+            [
+              "335",
+              "[@peterpaulis](https://github.com/peterpaulis)/[**StaticDataTableViewC…**](https://github.com/peterpaulis/StaticDataTableViewController)",
+              "Enables to hide static cells",
+              ""
+            ],
+            [
+              "332",
+              "[@Tricertops](https://github.com/Tricertops)/[**Block-KVO**](https://github.com/Tricertops/Block-KVO)",
+              "Objective-C Key-Value Observing made easier with blocks",
+              ""
+            ],
+            [
+              "243",
+              "[@Tricertops](https://github.com/Tricertops)/[**Objective-Chain**](https://github.com/Tricertops/Objective-Chain)",
+              "Object-oriented reactive framework, inspired by ReactiveCocoa",
+              ""
+            ],
+            [
+              "189",
+              "[@peterpaulis](https://github.com/peterpaulis)/[**M6ParallaxController**](https://github.com/peterpaulis/M6ParallaxController)",
+              "Parallax controller for a parallaxed view and a table view",
+              ""
+            ],
+            [
+              "161",
+              "[@Tricertops](https://github.com/Tricertops)/[**UIView-AnimatedPrope…**](https://github.com/Tricertops/UIView-AnimatedProperty)",
+              "Extending `UIView` block animations to allow you to implement custom animated properties.",
+              ""
+            ],
+            [
+              "104",
+              "[@Tricertops](https://github.com/Tricertops)/[**Grand-Object-Dispatc…**](https://github.com/Tricertops/Grand-Object-Dispatch)",
+              "Objective-C wrapper for Grand Central Dispatch",
+              ""
+            ],
+            [
+              "85",
+              "[@peterpaulis](https://github.com/peterpaulis)/[**M6UniversalParallaxV…**](https://github.com/peterpaulis/M6UniversalParallaxViewController)",
+              "",
+              ""
+            ],
+            [
+              "52",
+              "[@Tricertops](https://github.com/Tricertops)/[**Typed**](https://github.com/Tricertops/Typed)",
+              "Statically typed Objective-C collections",
+              ""
+            ],
+            [
+              "39",
+              "[@kukosk](https://github.com/kukosk)/[**JKKeyboard**](https://github.com/kukosk/JKKeyboard)",
+              "JKKeyboard keeps track of the keyboard frame, and lets you manage your scroll view insets along with custom views' frames the easy way, handling animations completely transparently for you. It will also help you scrolling down your scroll views with the keyboard when appropriate.",
+              ""
+            ],
+            [
+              "37",
+              "[@peterpaulis](https://github.com/peterpaulis)/[**UIViewController--Co…**](https://github.com/peterpaulis/UIViewController--Container-)",
+              "Category for inserting child view controller",
+              ""
+            ],
+            [
+              "30",
+              "[@Tricertops](https://github.com/Tricertops)/[**ITNDescription**](https://github.com/Tricertops/ITNDescription)",
+              "Automatic and smart -debugDescription for every Objective-C class.",
+              ""
+            ],
+            [
+              "23",
+              "[@Tricertops](https://github.com/Tricertops)/[**Valid-KeyPath**](https://github.com/Tricertops/Valid-KeyPath)",
+              "Allows you to specify Objective-C key-paths using symbols taking all advantages – code-completion, complite-time validation, refactoring.",
+              ""
+            ],
+            [
+              "19",
+              "[@vojto](https://github.com/vojto)/[**Slap**](https://github.com/vojto/Slap)",
+              "",
+              ""
+            ],
+            [
+              "19",
+              "[@Tricertops](https://github.com/Tricertops)/[**MTKButtonState**](https://github.com/Tricertops/MTKButtonState)",
+              "Allows you to set UIButton state-based properties with dot syntax.",
+              ""
+            ],
+            [
+              "12",
+              "[@vojto](https://github.com/vojto)/[**RKSyntaxView**](https://github.com/vojto/RKSyntaxView)",
+              "Simple NSTextView subclass that highlights source code using regular expressions",
+              "[:arrow_upper_right:](http://rinik.net)"
+            ],
+            [
+              "11",
+              "[@Tricertops](https://github.com/Tricertops)/[**NSObject-GCD**](https://github.com/Tricertops/NSObject-GCD)",
+              "NSObject+GCD: Category on NSObject with methods that wrap some of the GCD functions.",
+              ""
+            ],
+            [
+              "7",
+              "[@peterpaulis](https://github.com/peterpaulis)/[**M6GPSLocationManager**](https://github.com/peterpaulis/M6GPSLocationManager)",
+              "Cocoa iOS Location manager based on CLLocationManager",
+              ""
+            ],
+            [
+              "7",
+              "[@Tricertops](https://github.com/Tricertops)/[**Yield**](https://github.com/Tricertops/Yield)",
+              "Support for multiple entry points and return values in Objective-C.",
+              ""
+            ],
+            [
+              "5",
+              "[@Tricertops](https://github.com/Tricertops)/[**Essentials**](https://github.com/Tricertops/Essentials)",
+              "Collection of categories, functions, macros and classes that are essential part of my projects.",
+              ""
+            ],
+            [
+              "5",
+              "[@Tricertops](https://github.com/Tricertops)/[**Where**](https://github.com/Tricertops/Where)",
+              "Locate the user of the current iOS device without CoreLocation.",
+              ""
+            ],
+            [
+              "5",
+              "[@peterpaulis](https://github.com/peterpaulis)/[**BufferOutputStreamTo…**](https://github.com/peterpaulis/BufferOutputStreamToInputStream)",
+              "Enables to have an Buffered output stream, linked to to an input stream... this is useful when testing, or when you need to simulate an input stream, that is refilled with local data",
+              ""
+            ],
+            [
+              "4",
+              "[@vojto](https://github.com/vojto)/[**dr0**](https://github.com/vojto/dr0)",
+              "Show your iPad drawings to friends in real time",
+              ""
+            ],
+            [
+              "3",
+              "[@Tricertops](https://github.com/Tricertops)/[**LinearKit**](https://github.com/Tricertops/LinearKit)",
+              "Objective-C wrapper for Accelerate framework.",
+              ""
+            ],
+            [
+              "3",
+              "[@Tricertops](https://github.com/Tricertops)/[**RichArchiver**](https://github.com/Tricertops/RichArchiver)",
+              "Archivation tool for `NSAttributedStrings` for cross-platform exchange – OS X to iOS",
+              ""
+            ],
+            [
+              "2",
+              "[@peterpaulis](https://github.com/peterpaulis)/[**NSView-NibLoading-**](https://github.com/peterpaulis/NSView-NibLoading-)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@vojto](https://github.com/vojto)/[**Sporker**](https://github.com/vojto/Sporker)",
+              "App that starts and stops Spork from menu bar",
+              "[:arrow_upper_right:](http://rinik.net)"
+            ],
+            [
+              "2",
+              "[@Tricertops](https://github.com/Tricertops)/[**iOS-Toolbox**](https://github.com/Tricertops/iOS-Toolbox)",
+              "Open-source app with a collection of tools for iOS devs.",
               ""
             ]
           ]
