@@ -54,7 +54,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -1039,6 +1040,57 @@
               "2",
               "[@Ingeniosity](https://github.com/Ingeniosity)/[**uniPOS**](https://github.com/Ingeniosity/uniPOS)",
               "Package that maps different POS tagset to the Universal POS",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "30",
+              "[@mkottman](https://github.com/mkottman)/[**lua-git**](https://github.com/mkottman/lua-git)",
+              "An attempt to implement the basics of Git in pure Lua",
+              ""
+            ],
+            [
+              "12",
+              "[@mkottman](https://github.com/mkottman)/[**wdm**](https://github.com/mkottman/wdm)",
+              "web data mining - a small utility library for Lua for easy HTTP mining with curl & sqlite3",
+              ""
+            ],
+            [
+              "6",
+              "[@mkottman](https://github.com/mkottman)/[**ffi_fun**](https://github.com/mkottman/ffi_fun)",
+              "Various examples of (ab)using of the LuaJIT FFI",
+              ""
+            ],
+            [
+              "3",
+              "[@mkottman](https://github.com/mkottman)/[**villie**](https://github.com/mkottman/villie)",
+              "Visual Language Interpreter",
+              ""
+            ],
+            [
+              "2",
+              "[@drahosp](https://github.com/drahosp)/[**luadist**](https://github.com/drahosp/luadist)",
+              "Automated Lua module deployment utility for the LuaDist project.",
+              "[:arrow_upper_right:](www.luadist.org)"
+            ],
+            [
+              "2",
+              "[@mkottman](https://github.com/mkottman)/[**scite_scripts**](https://github.com/mkottman/scite_scripts)",
+              "custom scripts for the Scite editor",
               ""
             ]
           ]
