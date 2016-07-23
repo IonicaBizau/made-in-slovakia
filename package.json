@@ -40,6 +40,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/made-in-slovakia#readme",
   "blah": {
+    "title": "Made in Slovakia",
     "installation": [
       {
         "h2": "Contents"
