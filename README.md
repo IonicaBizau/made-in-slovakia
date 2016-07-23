@@ -1,16 +1,9 @@
 
-# made-in-slovakia
+# Made in Slovakia
 
  [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-slovakia.svg)](https://www.npmjs.com/package/made-in-slovakia) [![Downloads](https://img.shields.io/npm/dt/made-in-slovakia.svg)](https://www.npmjs.com/package/made-in-slovakia) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A list of neat projects made in Slovakia
-
-## :cloud: Installation
-
-```sh
-$ npm i --save made-in-slovakia
-```
-
 
 ## Contents
 
@@ -362,31 +355,6 @@ $ npm i --save made-in-slovakia
 125 | [@martin-svk](https://github.com/martin-svk)/[**dot-files**](https://github.com/martin-svk/dot-files) | :zap: Well documented, terminal centric web developer's dot files. Neovim, Zsh, Tmux, Git, etc. |
 50 | [@triglav](https://github.com/triglav)/[**vim-visual-increment**](https://github.com/triglav/vim-visual-increment) | visual-increment.vim - use CTRL+A/X to create increasing sequence of numbers or letters via visual mode | [:arrow_upper_right:](http://triglav.github.com/vim-visual-increment/)
 2 | [@triglav](https://github.com/triglav)/[**vim-files**](https://github.com/triglav/vim-files) | Triglav's Vim files. |
-
-## :clipboard: Example
-
-
-
-```js
-const madeInSlovakia = require("made-in-slovakia");
-
-console.log(madeInSlovakia());
-```
-
-## :memo: Documentation
-
-
-### `madeInSlovakia(a, b)`
-A list of neat projects made in Slovakia
-
-#### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
-
-
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
