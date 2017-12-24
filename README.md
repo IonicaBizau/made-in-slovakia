@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -29,6 +30,7 @@
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 216 | [@jbutko](https://github.com/jbutko)/[**stickyNavbar.js**](https://github.com/jbutko/stickyNavbar.js) | stickyNavbar.js: Fancy sticky navigation jQuery plugin with smart anchor link highlighting | [:arrow_upper_right:](http://www.jozefbutko.com/stickynavbar/)
@@ -97,7 +99,9 @@
 2 | [@MartinKolarik](https://github.com/MartinKolarik)/[**gobble-clean-css**](https://github.com/MartinKolarik/gobble-clean-css) | Minify CSS files with gobble and clean-css |
 2 | [@MartinKolarik](https://github.com/MartinKolarik)/[**dedent-js**](https://github.com/MartinKolarik/dedent-js) | Remove indentation from multiline strings |
 2 | [@petersirka](https://github.com/petersirka)/[**jquery.upload**](https://github.com/petersirka/jquery.upload) | jQuery upload files (HTML 5 File API) + drag and drop files |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 221 | [@FrantisekGazo](https://github.com/FrantisekGazo)/[**Blade**](https://github.com/FrantisekGazo/Blade) | Android library for boilerplate destruction |
@@ -120,16 +124,22 @@
 2 | [@laciKE](https://github.com/laciKE)/[**LocationShare**](https://github.com/laciKE/LocationShare) | Sharing my location with group of friends. Inspired by Google Latitude, but Google Latitude is not suitable for me (and some other people) because it required Google Plus. |
 2 | [@bletvaska](https://github.com/bletvaska)/[**dwa**](https://github.com/bletvaska/dwa) | Damn Vulnerable Web Application. Set of labs for web application security course in Java. |
 2 | [@pylerSM](https://github.com/pylerSM)/[**LogsFilter**](https://github.com/pylerSM/LogsFilter) | [Xposed module] Filter private information from logs | [:arrow_upper_right:](http://repo.xposed.info/module/com.pyler.logsfilter)
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 9 | [@Sovak](https://github.com/Sovak)/[**WowheadRipper**](https://github.com/Sovak/WowheadRipper) | A tool used for parsing Wowhead data. |
 9 | [@llucenic](https://github.com/llucenic)/[**MonoDevelop.Debugger…**](https://github.com/llucenic/MonoDevelop.Debugger.Gdb.D) | Debugging support for D programming language in MonoDevelop under GNU/Linux. |
+
 ### HTML #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 5 | [@slovensko-digital](https://github.com/slovensko-digital)/[**uvobot**](https://github.com/slovensko-digital/uvobot) |  |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 30 | [@danielkraic](https://github.com/danielkraic)/[**Pidgin-XEP-0136-plug…**](https://github.com/danielkraic/Pidgin-XEP-0136-plugin) | Pidgin XEP-0136: Message Archiving plugin |
@@ -147,7 +157,9 @@
 2 | [@PatrikKT](https://github.com/PatrikKT)/[**android_kernel_huawe…**](https://github.com/PatrikKT/android_kernel_huawei_y550) |  |
 2 | [@lovasko](https://github.com/lovasko)/[**m_list**](https://github.com/lovasko/m_list) | Linked List for C89 |
 2 | [@nandra](https://github.com/nandra)/[**AVR**](https://github.com/nandra/AVR) | AVR projects |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 316 | [@matus-chochlik](https://github.com/matus-chochlik)/[**oglplus**](https://github.com/matus-chochlik/oglplus) | OGLplus is a collection of open-source, cross-platform libraries which implement an object-oriented facade over the OpenGL® (version 3 and higher) and also OpenAL® (version 1.1) and EGL (version 1.4) C-language APIs. It provides wrappers which automate resource and object management and make the use of these libraries in C++ safer and more convenient. | [:arrow_upper_right:](http://oglplus.org/)
@@ -173,13 +185,17 @@
 2 | [@mireq](https://github.com/mireq)/[**QBoincGui**](https://github.com/mireq/QBoincGui) | Boinc GUI | [:arrow_upper_right:](http://linuxos.sk)
 2 | [@mireq](https://github.com/mireq)/[**QtXvWidget**](https://github.com/mireq/QtXvWidget) | Qt widget for X-Video Extension |
 2 | [@matus-chochlik](https://github.com/matus-chochlik)/[**exces**](https://github.com/matus-chochlik/exces) | A simple component/entity system |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 15 | [@pshtif](https://github.com/pshtif)/[**Genome2D-Nape**](https://github.com/pshtif/Genome2D-Nape) | Genome2D physics extension using Nape |
 14 | [@pshtif](https://github.com/pshtif)/[**PixelCollisionEngine**](https://github.com/pshtif/PixelCollisionEngine) |  |
 2 | [@mgron](https://github.com/mgron)/[**HungryHeroToGenome2D**](https://github.com/mgron/HungryHeroToGenome2D) |  |
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 21 | [@wagjo](https://github.com/wagjo)/[**data-cljs**](https://github.com/wagjo/data-cljs) | Finger trees and miscellaneous functions for ClojureScript data structures. |
@@ -190,14 +206,18 @@
 2 | [@dstiberova](https://github.com/dstiberova)/[**comments-app**](https://github.com/dstiberova/comments-app) | Simple comments application written in Clojure using om.next |
 2 | [@wagjo](https://github.com/wagjo)/[**dredd**](https://github.com/wagjo/dredd) | Simple Online Automated Judge System in Clojure |
 2 | [@janherich](https://github.com/janherich)/[**async-experiments**](https://github.com/janherich/async-experiments) | Experimentations with core.async |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 12 | [@radoondas](https://github.com/radoondas)/[**elasticbeat**](https://github.com/radoondas/elasticbeat) | Simple Beat for ElasticSearch statistics |
 11 | [@radoondas](https://github.com/radoondas)/[**apachebeat**](https://github.com/radoondas/apachebeat) | Beat for Apache HTTPD server-status page |
 6 | [@radoondas](https://github.com/radoondas)/[**jmxproxybeat**](https://github.com/radoondas/jmxproxybeat) | JmxProxyBeat - Simple beat for Tomcat JMX exposed over JmxProxyServlet to HTTP  |
 2 | [@Ingeniosity](https://github.com/Ingeniosity)/[**uniPOS**](https://github.com/Ingeniosity/uniPOS) | Package that maps different POS tagset to the Universal POS |
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 30 | [@mkottman](https://github.com/mkottman)/[**lua-git**](https://github.com/mkottman/lua-git) | An attempt to implement the basics of Git in pure Lua |
@@ -206,7 +226,9 @@
 3 | [@mkottman](https://github.com/mkottman)/[**villie**](https://github.com/mkottman/villie) | Visual Language Interpreter |
 2 | [@drahosp](https://github.com/drahosp)/[**luadist**](https://github.com/drahosp/luadist) | Automated Lua module deployment utility for the LuaDist project. | [:arrow_upper_right:](www.luadist.org)
 2 | [@mkottman](https://github.com/mkottman)/[**scite_scripts**](https://github.com/mkottman/scite_scripts) | custom scripts for the Scite editor |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 832 | [@Tricertops](https://github.com/Tricertops)/[**KeepLayout**](https://github.com/Tricertops/KeepLayout) | Making Auto Layout easier to code. |
@@ -237,7 +259,9 @@
 2 | [@peterpaulis](https://github.com/peterpaulis)/[**NSView-NibLoading-**](https://github.com/peterpaulis/NSView-NibLoading-) |  |
 2 | [@vojto](https://github.com/vojto)/[**Sporker**](https://github.com/vojto/Sporker) | App that starts and stops Spork from menu bar | [:arrow_upper_right:](http://rinik.net)
 2 | [@Tricertops](https://github.com/Tricertops)/[**iOS-Toolbox**](https://github.com/Tricertops/iOS-Toolbox) | Open-source app with a collection of tools for iOS devs. |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 25 | [@potyl](https://github.com/potyl)/[**Webkit**](https://github.com/potyl/Webkit) | Having fun with WebKit |
@@ -250,7 +274,9 @@
 2 | [@potyl](https://github.com/potyl)/[**perl-Gtk2**](https://github.com/potyl/perl-Gtk2) | My fork of GTK | [:arrow_upper_right:](http://gtk2-perl.sourceforge.net/)
 2 | [@potyl](https://github.com/potyl)/[**bin**](https://github.com/potyl/bin) | Bin folder with various utilities |
 2 | [@potyl](https://github.com/potyl)/[**Glib-Soup**](https://github.com/potyl/Glib-Soup) | LibSoup bindings for perl |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 895 | [@itsgoingd](https://github.com/itsgoingd)/[**clockwork**](https://github.com/itsgoingd/clockwork) | Server-side component of Clockwork, a Chrome extension for PHP development. |
@@ -273,7 +299,9 @@
 2 | [@newPOPE](https://github.com/newPOPE)/[**Nette-CQRS-Commands**](https://github.com/newPOPE/Nette-CQRS-Commands) | Simple CQRS Commands for Nette Framework |
 2 | [@freezy-sk](https://github.com/freezy-sk)/[**InterspireEMApi**](https://github.com/freezy-sk/InterspireEMApi) |  |
 2 | [@newPOPE](https://github.com/newPOPE)/[**screencast**](https://github.com/newPOPE/screencast) | Nette screen casts |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 118 | [@Mimino666](https://github.com/Mimino666)/[**langdetect**](https://github.com/Mimino666/langdetect) | Port of Google's language-detection library to Python. |
@@ -315,7 +343,9 @@
 2 | [@mrshu](https://github.com/mrshu)/[**py-todotxt**](https://github.com/mrshu/py-todotxt) | A Python library for dealing with todo.txt files |
 2 | [@mrshu](https://github.com/mrshu)/[**stemm-sk**](https://github.com/mrshu/stemm-sk) | A stemmer for Slovak language |
 2 | [@ok100](https://github.com/ok100)/[**findtorrent**](https://github.com/ok100/findtorrent) | Search and download torrent files from various sites |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 233 | [@jsuchal](https://github.com/jsuchal)/[**garelic**](https://github.com/jsuchal/garelic) | Use Google Analytics for Rails App Performance Monitoring. |
@@ -340,23 +370,30 @@
 2 | [@milann](https://github.com/milann)/[**gts**](https://github.com/milann/gts) | Simple GPS tracking server. |
 2 | [@macejmic](https://github.com/macejmic)/[**skrill_payments**](https://github.com/macejmic/skrill_payments) | Skrill Payments GEM |
 2 | [@smolnar](https://github.com/smolnar)/[**gabrake**](https://github.com/smolnar/gabrake) | Simple Realtime Error Tracking and Statistics with Google Analytics |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 5 | [@rusho](https://github.com/rusho)/[**lift_24_sbt11_basic**](https://github.com/rusho/lift_24_sbt11_basic) | Lift 2.4 and SBT 0.11 Basic Example Template |
 2 | [@viliam](https://github.com/viliam)/[**twars**](https://github.com/viliam/twars) |  |
 2 | [@viliam](https://github.com/viliam)/[**tetrisSFX**](https://github.com/viliam/tetrisSFX) |  |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 18 | [@enkydu](https://github.com/enkydu)/[**Raspi_Runner**](https://github.com/enkydu/Raspi_Runner) | Raspi Runner is a BASH script which will run all your scripts delivered by e-mail. |
 2 | [@marekruzicka](https://github.com/marekruzicka)/[**openstack-debian-ima…**](https://github.com/marekruzicka/openstack-debian-image) | Scripts for building customized debian image for OpenStack |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 125 | [@martin-svk](https://github.com/martin-svk)/[**dot-files**](https://github.com/martin-svk/dot-files) | :zap: Well documented, terminal centric web developer's dot files. Neovim, Zsh, Tmux, Git, etc. |
 50 | [@triglav](https://github.com/triglav)/[**vim-visual-increment**](https://github.com/triglav/vim-visual-increment) | visual-increment.vim - use CTRL+A/X to create increasing sequence of numbers or letters via visual mode | [:arrow_upper_right:](http://triglav.github.com/vim-visual-increment/)
 2 | [@triglav](https://github.com/triglav)/[**vim-files**](https://github.com/triglav/vim-files) | Triglav's Vim files. |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
